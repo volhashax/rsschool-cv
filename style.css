@@ -34,37 +34,6 @@
   flex-direction: column;
 }
 
-.text{
-  padding-left: 15px;
-  margin-top: 10px;
-}
-.discord_logo{
-  margin-top: 10px; 
-}
-
-.email_logo{
-  padding-left: 15px;
-  margin-top: 10px; 
-}
-
-.email_text{
-  padding-left: 15px;
-  margin-top: 10px;
-}
-
-.email{
-  display: flex;
-}
-
-.github{
-  display: flex;
-}
-
-.github_text{
-  padding-left: 15px;
-  margin-top: 10px;
-}
-
 .avatar{
     display: flex;
     text-transform: uppercase;
@@ -82,14 +51,24 @@ border-radius: 4px;
 }
 
 
-.diskord{
-  display: flex;
-    float:left;
-}
-
 .skills{
   display: flex;
   color: #3C4A61;
   padding-left: 20px;
   margin-bottom: 10px;
 }
+
+.footer{
+  display: flex;
+  margin-bottom: 30px;
+  padding-left: 20px;
+  align-items: center;
+  
+}
+
+.rss_logo{
+  display: flex;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
